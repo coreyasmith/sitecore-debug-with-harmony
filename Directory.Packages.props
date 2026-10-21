@@ -1,0 +1,11 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Lib.Harmony" Version="2.4.3" />
+    <PackageVersion Include="Sitecore.Assemblies.Platform" Version="10.5.0" />
+    <PackageVersion Include="Sitecore.Kernel" Version="10.5.0" />
+    <PackageVersion Include="Spe" Version="8.0.0" />
+  </ItemGroup>
+</Project>
